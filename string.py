@@ -45,3 +45,4 @@ print("I'm {}, I {}, I learn {}".format(name5,age,job))
 text = f"Menning ismim {name5}, Menning yoshim {age}, Men {job} o'rganayabman"
 print(text)
 
+
